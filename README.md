@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kostanych
+- 👋 Hi, I’m @Kostanych. I am Data scientist.
 - 👀 I’m interested in improving of myself.
-- 🌱 I’m currently learning machine learning and MLOps
+- 🌱 I’m currently do some machine learning and MLOps
 
 <!---
 Kostanych/Kostanych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
